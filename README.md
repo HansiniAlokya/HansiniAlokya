@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=HansiniAlokya&label=Profile%20Views&color=8A2BE2&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=HansiniAlokya&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -37,23 +37,23 @@ I'm interested in **Software Engineering, application development, and exploring
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask" />
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 
 ### 🔧 Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
 
 </div>
 
@@ -63,9 +63,9 @@ I'm interested in **Software Engineering, application development, and exploring
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HansiniAlokya&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HansiniAlokya&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HansiniAlokya&layout=compact&theme=transparent&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HansiniAlokya&layout=compact&theme=transparent&hide_border=true" height="170" />
 
 </div>
 
@@ -75,7 +75,7 @@ I'm interested in **Software Engineering, application development, and exploring
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=HansiniAlokya&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=HansiniAlokya&theme=transparent&hide_border=true" />
 
 </div>
 
@@ -85,7 +85,7 @@ I'm interested in **Software Engineering, application development, and exploring
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Exploring+Software+Engineering;Improving+Problem+Solving;Building+Better+Applications;Learning+Modern+Development+Practices"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Exploring+Software+Engineering;Improving+Problem+Solving;Building+Better+Applications;Learning+Modern+Development+Practices" alt="Currently Learning"/>
 
 </div>
 
@@ -105,12 +105,18 @@ I'm interested in **Software Engineering, application development, and exploring
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/HansiniAlokya">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/hansini-alokya/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+ 
+
+<a href="mailto:alokya.hansini@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -119,8 +125,14 @@ I'm interested in **Software Engineering, application development, and exploring
 
 <div align="center">
 
-### 💜 Thanks for visiting my profile!
+<sub>Building · Learning · Growing</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
